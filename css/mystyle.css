@@ -1,11 +1,36 @@
+a:link {
+        text-decoration:none;
+        color: gray;
+}
+
+a:visited {
+        color:blue;
+}
+
+a:hover {
+        color:gray;
+        text-decoration:underline;
+        font-weight:bold;
+}
+
+a:active {
+        color: purple;
+}
+
+
 h3 {
     color:red;
     fonr-size:30px;
     text-align:center;
-    text-decoration:line-through;
+    text-decoration:underline;
+    font-family:"궁서체";
+    font-style:italic;
 }
 
 p {
     color: blue;
+    line-height:700%;
+    font-family:"궁서체";
+    font-weight:bold;
 }
 

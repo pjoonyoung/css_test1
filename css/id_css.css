@@ -1,0 +1,35 @@
+/* id선택자와 class선택자 CSS파일*/
+/*너무졸리다 잠이온다 자고싶다 어렵다 머리아프다 골떙긴다 뒷목아프다 */
+
+#position {
+        color:red;
+        font-weight:bold;
+        font-size:40px;
+}
+
+#asd {
+    color:blue;
+        font-weight:bold;
+        font-size:40px;
+}
+
+p {
+    color:gray;
+    font-size:30px;
+}
+
+.red {
+    color: red;
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+h1.redh1 {
+    color:red;
+    font-size:50px;
+}
+
+h1.blueh1 {
+    color:blue;
+    font-size:50px;
+}

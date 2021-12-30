@@ -1,0 +1,21 @@
+/* chapter7 배경색상 바꾸기 */
+
+h1 {
+    background-color: pink;
+}
+
+#blue {
+    color:white;
+    background-color: blue;
+}
+
+body {
+    background-image: url('../img/flower_bee.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+   /* background-position: 100px 50px;
+      background-position: center center;
+      background-position: reft center;
+      background-position: center bottom;*/
+}
+
